@@ -245,6 +245,14 @@
       "PackagePath": "staticwebassets\\css\\Header-Footer.css"
     },
     {
+      "Id": "C:\\Users\\53297269804\\Desktop\\projeto-gamer-manha\\wwwroot\\css\\equipes.css",
+      "PackagePath": "staticwebassets\\css\\equipes.css"
+    },
+    {
+      "Id": "C:\\Users\\53297269804\\Desktop\\projeto-gamer-manha\\wwwroot\\css\\jogadores.css",
+      "PackagePath": "staticwebassets\\css\\jogadores.css"
+    },
+    {
       "Id": "C:\\Users\\53297269804\\Desktop\\projeto-gamer-manha\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },

@@ -10,7 +10,7 @@
     <main class="fundo-login">
         <span>@TempData.Peek("Message")</span>
         <div class="bkg-login">
-            <form class="frm-login" method="post" action="@Url.Action("Logar")">
+            <form class="frm-login" method="post" action='@Url.Action("Logar")'>
                 <div class="login-title">
                     <hr class="login-line">
                     <h1>Login</h1>
@@ -18,13 +18,13 @@
                 <div class="frm-linha">
                     <div class="bkg-input">
                         <img src="~/assets/vector-user.svg" alt="ícone de usuário">
-                        <input type="email" id="email" placeholder="Digite seu e-mail:">
+                        <input type="email" name="Email" id="email" placeholder="Digite seu e-mail:">
                     </div>
                 </div>
                 <div class="frm-linha">
                     <div class="bkg-input">
                         <img src="~/assets/vector-key.svg" alt="ícone de chave">
-                        <input type="password" id="password" placeholder="Digite sua senha:">
+                        <input type="password" name="Senha" id="password" placeholder="Digite sua senha:">
                     </div>
                 </div>
 
@@ -34,7 +34,7 @@
 
     </main>
 
-
+@* 
     <h1>Tela de Login</h1>
 
 <h2>
@@ -51,4 +51,4 @@
 
     <button type="submit">Logar</button> 
 
-</form> 
+</form>  *@

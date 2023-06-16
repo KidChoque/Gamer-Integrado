@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Q6n5N9Iqx9/UTHo78vKW1Ee2Ss+FfB13LuC/xh1q6Zs=",
+  "Hash": "cUvbhUo/SlNX7g4eGCraWX1JegClSQuiROcp5dFIwaY=",
   "Source": "projeto-gamer-manha",
   "BasePath": "_content/projeto-gamer-manha",
   "Mode": "Default",
@@ -1054,6 +1054,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\vector-user.svg"
     },
     {
+      "Identity": "C:\\Users\\53297269804\\Desktop\\projeto-gamer-manha\\wwwroot\\css\\equipes.css",
+      "SourceId": "projeto-gamer-manha",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\53297269804\\Desktop\\projeto-gamer-manha\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-manha",
+      "RelativePath": "css/equipes.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\equipes.css"
+    },
+    {
       "Identity": "C:\\Users\\53297269804\\Desktop\\projeto-gamer-manha\\wwwroot\\css\\Header-Footer.css",
       "SourceId": "projeto-gamer-manha",
       "SourceType": "Discovered",
@@ -1069,6 +1086,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\Header-Footer.css"
+    },
+    {
+      "Identity": "C:\\Users\\53297269804\\Desktop\\projeto-gamer-manha\\wwwroot\\css\\jogadores.css",
+      "SourceId": "projeto-gamer-manha",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\53297269804\\Desktop\\projeto-gamer-manha\\wwwroot\\",
+      "BasePath": "_content/projeto-gamer-manha",
+      "RelativePath": "css/jogadores.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\jogadores.css"
     },
     {
       "Identity": "C:\\Users\\53297269804\\Desktop\\projeto-gamer-manha\\wwwroot\\css\\login.css",
